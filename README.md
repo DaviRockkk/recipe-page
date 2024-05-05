@@ -12,7 +12,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Simple single-page recipe page
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Recipe Page](https://davirockkk.github.io/recipe-page/)
 
 ### Built with
 
